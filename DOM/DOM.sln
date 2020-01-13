@@ -1,0 +1,13 @@
+Microsoft Visual Studio Solution File, Format Version 1.00
+Project("{66355F20-A65B-11D0-BFB5-00A0C91EBFA0}") = "DOM", "DOM.vjp", "{CC90000C-31AB-46B8-899D-5C5E435A47BD}"
+EndProject
+Global
+	GlobalSection(LocalDeployment) = postSolution
+		StartupProject = {CC90000C-31AB-46B8-899D-5C5E435A47BD}
+	EndGlobalSection
+	GlobalSection(BuildOrder) = postSolution
+		0 = {CC90000C-31AB-46B8-899D-5C5E435A47BD}
+	EndGlobalSection
+	GlobalSection(DeploymentRoot) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+cd DOM
+java StartGame
